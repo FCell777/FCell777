@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @FCell777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @dee
+
+- 👀 I’m interested in AI and Analytics 
+
+- 🌱 I’m currently learning sql + react
+
+
+- 📫 How to reach me dnpierrecareer@gmail.com
+
+
+
+- 😄 Pronouns: she/her/hers
+
+
+
+
+- ⚡ Fun fact: I love animals + food.
 
 <!---
 FCell777/FCell777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
